@@ -8,7 +8,7 @@
 
 .gpt3__navbar-links {
     flex: 1;
-    display: flex;
+    display: flex; 
     justify-content: flex-start;
     align-items: center;
 
@@ -117,13 +117,13 @@
 @media screen and (max-width:550px) { 
 
     .gpt3__navbar-menu {
-        padding: 2rem 4rem;
+        padding: 2rem;
     }
     .gpt3__navbar-sign {
         display: none;
     }
     .gpt3__navbar-menu_container {
-        top: 20px;
+        top: 29px;
     }
     .gpt3__navbar-menu_container-links-sign {
         display:block;

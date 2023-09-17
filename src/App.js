@@ -4,7 +4,6 @@ import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './contain
 import { CTA, Brand, Navbar } from './components'
 import './App.css'
 
-// salad salad salad salad salad salad
 const App = () => {
   return (
     <div>
